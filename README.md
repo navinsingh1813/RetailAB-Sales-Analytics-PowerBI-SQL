@@ -202,7 +202,6 @@ The dashboards track several important business metrics:
 
 | Folder           | Description                            |
 | ---------------- | -------------------------------------- |
-| Dataset          | Raw source data files                  |
 | SQL Scripts      | Scripts used to create and load tables |
 | Power BI Reports | PBIX files                             |
 | Images           | Dashboard screenshots                  |
