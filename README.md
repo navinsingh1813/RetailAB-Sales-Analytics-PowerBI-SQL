@@ -40,7 +40,6 @@ The primary objective of this project is to help business stakeholders:
 ```text
 RetailAB-Sales-Analytics-PowerBI-SQL
 │
-├── Dataset
 ├── SQL Scripts
 ├── Power BI Reports
 ├── Images
